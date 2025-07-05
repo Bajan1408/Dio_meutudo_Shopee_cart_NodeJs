@@ -1,6 +1,6 @@
-###### Desafio de projeto Carrinho de compras da Shopee
+### Desafio de projeto Carrinho de compras da Shopee
 
-Desafio de projeto do bootcamp Dio meutudo - Mobile Developer
+#### Desafio de projeto do bootcamp Dio meutudo - Mobile Developer
 
 O desafio consiste em desenvolver um programa que simule as ações do carrinho de compras da Shopee, usando apenas o terminal. 
 
